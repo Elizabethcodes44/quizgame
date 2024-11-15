@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of Nigeria?",
+        "options":["Lagos", "Abuja", "Port Harcout", "Delta"],
+        "answer": "Abuja"
+    },
+    {
+        "id": 2,
+        "question": "What is the capital of Nigeria?",
+        "options":["Lagos", "Abuja", "Port Harcout", "Delta"],
+        "answer": "Abuja"
+    },
+    {
+        "id": 3,
+        "question": "What is the capital of Nigeria?",
+        "options":["Lagos", "Abuja", "Port Harcout", "Delta"],
+        "answer": "Abuja"
+    },
+    {
+        "id": 4,
+        "question": "Which planet is known as the red planet?",
+        "options":["Earth", "Mars", "Venus", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "id": 5,
+        "question": "What is the tallest mountain in the world?",
+        "options":["K2", "Mount Everest", "Lhotse", "Mountain and fire"],
+        "answer": "Mount Everest"
+    }
+]
