@@ -1,6 +1,6 @@
 import { useState } from "react";
 import questionsdata from "./questions.json";
-import ".quiz.css";
+
 import Question from './Question.jsx';
 
 export default function Quiz() {

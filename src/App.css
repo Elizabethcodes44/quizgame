@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.quizContainer {
+  margin-top: 20px;
+}
+
+.question-card {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.options button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+.next-btn {
+  margin-top: 15px;
+  padding: 10px 20px;
+  cursor: pointer;
+}

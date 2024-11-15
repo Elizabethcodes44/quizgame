@@ -2,19 +2,19 @@
     {
         "id": 1,
         "question": "What is the capital of Nigeria?",
-        "options":["Lagos", "Abuja", "Port Harcout", "Delta"],
+        "options":["Lagos", "Abuja", "Port Harcorut", "Delta"],
         "answer": "Abuja"
     },
     {
         "id": 2,
-        "question": "What is the capital of Nigeria?",
-        "options":["Lagos", "Abuja", "Port Harcout", "Delta"],
-        "answer": "Abuja"
+        "question": "What is the capital of Australia?",
+        "options":["Canberra", "Melbourne", "Sydney", "Oshodi"],
+        "answer": "Canberra"
     },
     {
         "id": 3,
-        "question": "What is the capital of Nigeria?",
-        "options":["Lagos", "Abuja", "Port Harcout", "Delta"],
+        "question": "Who is the current President of the united states of America?",
+        "options":["Donald Trump", "Kamala Harris", "Joe Biden", "Barack Obama"],
         "answer": "Abuja"
     },
     {
